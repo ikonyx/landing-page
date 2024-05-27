@@ -100,3 +100,32 @@ ul {
     object-fit: cover;
     border-radius: 12px;
 }
+
+/* Third Section Style */
+.third-section {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E5E7EB;
+    font: italic 36px Georgia;
+    color: #1F2937;
+    padding: 80px;
+    
+}
+
+.third-section p {
+    max-width: 1050px;
+    align-self: center;
+
+}
+
+.quote {
+    margin-bottom: 0;
+}
+
+.author {
+   margin-top: 0px;
+   margin-left: 700px;
+   font-weight: bold;
+   font-size: smaller;
+}
