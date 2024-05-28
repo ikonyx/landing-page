@@ -41,6 +41,11 @@ h1 {
     margin-bottom: 100px;
 }
 
+.right-hero img {
+    max-width: 100%;
+    object-fit: cover;
+}
+
 button {
     margin-right: auto;
     background-color: #3882F6;
@@ -69,7 +74,7 @@ ul {
     list-style: none;
 }
 
-/* Second section stye */
+/* Second section style */
 
 .info-header {
     margin: 36px;
@@ -82,6 +87,7 @@ ul {
 .second-section {
     display:flex;
     justify-content: center;
+    flex-wrap: wrap;
     padding: 0;
     gap: 36px;
     margin-bottom:100px;
@@ -109,10 +115,8 @@ ul {
     flex-direction: column;
     justify-content: center;
     background-color: #E5E7EB;
-    font: italic 36px Arial;
-    color: #1F2937;
     padding: 80px;
-    
+    overflow: hidden;
 }
 
 .third-section p {
@@ -123,13 +127,15 @@ ul {
 
 .quote {
     margin-bottom: 0;
+    font: italic 36px Verdana;
+    color: #1F2937;
 }
 
 .author {
    margin-top: 0px;
    margin-left: 700px;
    font-weight: bold;
-   font-size: smaller;
+   font-size: 24px;
 }
 
 /* Last section style */
@@ -137,8 +143,9 @@ ul {
 .last-section {
     display:flex;
     justify-content: space-around;
+    flex-wrap: wrap;
     margin: 100px 400px;
-    padding: 36px 100px;
+    padding: 36px 120px;
     color:#F9FAF8;
     background-color: #3882F6;
     border-radius: 8px;
