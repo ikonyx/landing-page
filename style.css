@@ -1,5 +1,5 @@
 body {
-   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    margin:0;
 }
 
@@ -103,12 +103,13 @@ ul {
 }
 
 /* Third Section Style */
+
 .third-section {
     display:flex;
     flex-direction: column;
     justify-content: center;
     background-color: #E5E7EB;
-    font: italic 36px Georgia;
+    font: italic 36px Arial;
     color: #1F2937;
     padding: 80px;
     
@@ -129,4 +130,40 @@ ul {
    margin-left: 700px;
    font-weight: bold;
    font-size: smaller;
+}
+
+/* Last section style */
+
+.last-section {
+    display:flex;
+    justify-content: space-around;
+    margin: 100px 400px;
+    padding: 36px 100px;
+    color:#F9FAF8;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+
+.text {
+    font-size:16px;
+}
+
+.signup {
+    border: 1px solid white;
+    margin-left: auto;
+    margin-right: 0;
+    
+}
+
+footer {
+    background-color: #1F2937;
+    padding: 16px;
+    text-align: center;
+    color:#F9FAF8;
 }
