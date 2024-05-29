@@ -107,6 +107,7 @@ ul {
     height: 250px;
     object-fit: cover;
     border-radius: 12px;
+    cursor: pointer;
 }
 
 /* Third Section Style */
