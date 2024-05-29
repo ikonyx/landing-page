@@ -47,6 +47,7 @@ h1 {
 }
 
 button {
+    cursor: pointer;
     margin-right: auto;
     background-color: #3882F6;
     color: #F9FAF8;
