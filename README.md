@@ -5,7 +5,7 @@ The task consists of creating a landing page following the design below:
 - [Full design](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
 - [Color and fonts](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png)
 
-## Content used
+## Github Page
 I created a landing page for an adventure racing business [**"AdvenRush"**](https://ikonyx.github.io/landing-page/).
 
 ## Images Used
